@@ -19,7 +19,7 @@ function ColorSchemesExample() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand as={Link} to="/">CA2-Startcode</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/">Personligt projekt!</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link as={Link} to="/about">About</Nav.Link>
             <Nav.Link as={Link} to="/login">Login</Nav.Link>
